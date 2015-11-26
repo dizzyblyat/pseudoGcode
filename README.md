@@ -40,3 +40,4 @@ You can compile C on Windows, too. Just do a quick google search on "compile C o
 ## Potential future updates
 * ~~Make sure files don't get corrupted if you accidently run them twice~~<br />
 * Improve code readability and documentation<br />
+* Convert all .nc files in the same folder when program is ran?
